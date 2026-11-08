@@ -69,4 +69,4 @@ Não é necessário instalar nada. Basta:
 
 ---
 
-Feito com dedicação por **Maria Júlia Sena**, estudante de Engenharia de Software · Brasília, DF.
+Feito por **Maria Júlia Sena**, estudante de Engenharia de Software · Brasília, DF.
